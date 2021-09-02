@@ -1,0 +1,47 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+header {
+
+    background-color: rgba(39, 65, 86);
+    line-height: 90px;
+}
+
+h1 {
+
+    color: rgba(219, 43, 57);
+    font-size: 60px;
+}
+
+.location {
+
+    color: rgba(251, 252, 255);
+    font-size: 30px;
+}
+
+.about, .contact {
+
+    margin: 20px auto;
+    width: 25%;
+    height: auto;
+    border: 2px solid rgba(28, 110, 140);
+    background-color:  rgba(208, 204, 208);
+    padding: 25px;
+}
+
+.aboutHeading, .contactHeading {
+
+    text-align: center;
+    color: rgba(75, 127, 82);
+    padding-bottom: 15px;
+    text-decoration: underline;
+}
+
+p {
+
+    color: rgba(28, 110, 140);
+    padding: 10px;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "user-input-generated-portfolio-page",
+  "version": "1.0.0",
+  "description": "An HTML Portfolio Page Generated From User Input in a Command Line Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyndseyjw/user-input-generated-portfolio-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyndseyjw/user-input-generated-portfolio-page/issues"
+  },
+  "homepage": "https://github.com/lyndseyjw/user-input-generated-portfolio-page#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
