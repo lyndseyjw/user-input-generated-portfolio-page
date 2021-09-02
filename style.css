@@ -24,10 +24,10 @@ h1 {
 
 .about, .contact {
 
-    margin: 20px auto;
+    margin: 45px auto;
     width: 25%;
     height: auto;
-    border: 2px solid rgba(28, 110, 140);
+    border: 2px solid rgb(219, 43, 57);
     background-color:  rgba(208, 204, 208);
     padding: 25px;
 }
